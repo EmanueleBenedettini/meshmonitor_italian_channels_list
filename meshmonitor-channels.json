@@ -1,0 +1,177 @@
+[
+  {
+    "name": "Test",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "Utilizzato per prove tecniche e test temporanei.",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "NewsFeed",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "Destinato all’invio periodico di dati, come quelli ambientali o informativi (presto verrà migrato ad OnlyBots).",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "OnlyBots",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "Destinato all’invio automatico da parte di programmi esterni, quali BBS, risponditori, invio condizioni meteo, alerts etc.",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "Abruzzo",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "Basilicata",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "Calabria",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "Campania",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "Em-Ro",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "Friuli-VG",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "Lazio",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "Liguria",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "Lombardia",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "Marche",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "Molise",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "Piemonte",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "Puglia",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "Sardegna",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "Sicilia",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "Toscana",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "Trentino-AA",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "Umbria",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "ValleAosta",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "Veneto",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "C-Ticino",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  },
+  {
+    "name": "SanMarino",
+    "psk": "FVNtESlvjcper4TmMzt4BuL9u8hWj4lrTvCskQqOoHk=",
+    "description": "",
+    "isEnabled": true,
+    "enforceNameValidation": true
+  }
+]
